@@ -1,1 +1,1 @@
-This is main branch update on same line
+This line belongs to the feature2 branch.
