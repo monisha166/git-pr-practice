@@ -1,2 +1,2 @@
-Hello from main
-This is new feature code
+This is conflicting feature2 code
+
