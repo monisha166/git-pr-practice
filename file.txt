@@ -1,2 +1,1 @@
-This is conflicting feature2 code
-
+This line belongs to the feature2 branch.
