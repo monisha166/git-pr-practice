@@ -1,1 +1,2 @@
 This line belongs to the feature2 branch.
+This line is from FEATURE2 branch — keep me!
