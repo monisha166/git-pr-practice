@@ -1,1 +1,1 @@
-This line belongs to the feature2 branch.
+This line is from MAIN branch — keep me!
